@@ -25,14 +25,6 @@ Tech: ![React Native](https://img.shields.io/badge/React_Native-20232a?style=fla
 
 ---
 
-### [BloodBridge](https://github.com/siddhantgoel7/BloodBridge) — *Hacked 2026 Finalist*
-
-Real-time platform connecting hospitals with compatible blood donors. Significantly reduced donor match time using PostGIS proximity queries, blood-type compatibility filtering, and urgency triage with Supabase Realtime push notifications.
-
-Tech: ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat&logo=supabase&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-4169e1?style=flat&logo=postgresql&logoColor=white)
-
----
-
 ### [PMCOLympics](https://github.com/siddhantgoel7/PMCOLympics)
 
 Full-stack gamified learning platform for pharmacology education — multiplayer quizzes, AI-generated study activities from lecture slides, and interactive challenges for 300+ students across 3+ Pharmacology and Nursing courses.
