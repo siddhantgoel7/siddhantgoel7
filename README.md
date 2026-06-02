@@ -16,7 +16,7 @@ AI-powered classroom engagement platform — live sessions, instructor dashboard
 
 ---
 
-### [https://github.com/campus-nest/campusnest)
+### [Campusnest](https://github.com/campus-nest/campusnest)
 Cross-platform student housing marketplace with university-only authentication, map-based discovery, and real-time messaging — available on iOS, Android, and Web.
 
 **Tech:** React Native · Expo · TypeScript · Supabase · PostgreSQL · Google Maps SDK
