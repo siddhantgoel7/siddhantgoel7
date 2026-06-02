@@ -25,14 +25,6 @@ Tech: ![React Native](https://img.shields.io/badge/React_Native-20232a?style=fla
 
 ---
 
-### [PMCOLympics](https://github.com/siddhantgoel7/PMCOLympics)
-
-Full-stack gamified learning platform for pharmacology education — multiplayer quizzes, AI-generated study activities from lecture slides, and interactive challenges for 300+ students across 3+ Pharmacology and Nursing courses.
-
-Tech: ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white)
-
----
-
 ### [Moodable](https://github.com/siddhantgoel7/project-kernelcrew)
 
 Android app connecting friends based on current mood — map-based discovery and real-time push notifications.
