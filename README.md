@@ -35,8 +35,7 @@ Tech: ![Java](https://img.shields.io/badge/Java-ed8b00?style=flat&logo=openjdk&l
 
 ## Also Working On
 
-Contributing to educational software at the **University of Alberta Faculty of Medicine and Dentistry** as a Software Developer Intern — leading a 6-person Agile team, shipping 150+ features, and maintaining 85% test coverage across interactive instructional platforms.
-
+Contributing to educational software at the **University of Alberta Faculty of Medicine and Dentistry** as a Software Developer Intern
 ---
 
 ## Tech Stack
