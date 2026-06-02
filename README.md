@@ -9,28 +9,22 @@ Currently seeking **Software Engineering Internships for Summer 2027**.
 
 ## Featured Projects
 
-### [PromptEd](https://github.com/siddhantgoel7/PromptEd)
+### [PromptEd](https://github.com/siddhantgoel7/Prompt-Ed)
 AI-powered classroom engagement platform — live sessions, instructor dashboards, RAG-powered content retrieval, and GPT-4o integration. Serves **200+ concurrent users**.
 
 **Tech:** Next.js · React 19 · TypeScript · PostgreSQL · OpenAI · pgvector · Whisper STT
 
 ---
 
-### [CampusNest](https://github.com/siddhantgoel7/CampusNest)
+### [https://github.com/campus-nest/campusnest)
 Cross-platform student housing marketplace with university-only authentication, map-based discovery, and real-time messaging — available on iOS, Android, and Web.
 
 **Tech:** React Native · Expo · TypeScript · Supabase · PostgreSQL · Google Maps SDK
 
----
-
-### [PMCOLympics](https://github.com/siddhantgoel7/PMCOLympics)
-Full-stack gamified learning platform for pharmacology education — multiplayer quizzes, AI-generated study content for **300+ students** across 3+ Pharmacology and Nursing courses.
-
-**Tech:** React · TypeScript · Django REST Framework · PostgreSQL · Docker · Kubernetes
 
 ---
 
-### [Moodable](https://github.com/siddhantgoel7/Moodable)
+### [Moodable](https://github.com/siddhantgoel7/project-kernelcrew)
 Android app connecting friends based on current mood — map-based discovery and real-time push notifications.
 
 **Tech:** Java · Android SDK · Firebase Firestore · Google Maps SDK · Espresso JUnit
