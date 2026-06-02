@@ -1,67 +1,72 @@
 # Siddhant Goel
 
-Computer Science Honours student at the University of Alberta building AI-powered applications and scalable full-stack systems. Currently seeking **Software Engineering Internships for Summer 2027**.
+Computer Science Honours student at the University of Alberta building AI-powered applications and scalable full-stack systems.
+Currently seeking **Software Engineering Internships for Summer 2027**.
 
-Edmonton, Alberta · [LinkedIn](https://linkedin.com/in/-siddhantgoel)
+📍 Edmonton, Alberta &nbsp;·&nbsp; 🟢 Open to opportunities
 
 ---
 
 ## Featured Projects
 
-### PromptEd
+### [PromptEd](https://github.com/siddhantgoel7/PromptEd)
+AI-powered classroom engagement platform — live sessions, instructor dashboards, RAG-powered content retrieval, and GPT-4o integration. Serves **200+ concurrent users**.
 
-AI-powered classroom engagement platform with live sessions, instructor dashboards, RAG-powered content retrieval, and GPT-4o integration.
+**Tech:** Next.js · React 19 · TypeScript · PostgreSQL · OpenAI · pgvector · Whisper STT
 
-**Tech:** Next.js · React · TypeScript · PostgreSQL · OpenAI
+---
 
-### CampusNest
+### [CampusNest](https://github.com/siddhantgoel7/CampusNest)
+Cross-platform student housing marketplace with university-only authentication, map-based discovery, and real-time messaging — available on iOS, Android, and Web.
 
-Cross-platform student housing marketplace with real-time messaging, map-based discovery, and university-only authentication.
+**Tech:** React Native · Expo · TypeScript · Supabase · PostgreSQL · Google Maps SDK
 
-**Tech:** React Native · Expo · Supabase · PostgreSQL
+---
 
-### PMCOLympics
+### [PMCOLympics](https://github.com/siddhantgoel7/PMCOLympics)
+Full-stack gamified learning platform for pharmacology education — multiplayer quizzes, AI-generated study content for **300+ students** across 3+ Pharmacology and Nursing courses.
 
-Gamified learning platform serving 300+ students with multiplayer quizzes and AI-generated study content.
+**Tech:** React · TypeScript · Django REST Framework · PostgreSQL · Docker · Kubernetes
 
-**Tech:** React · Django REST · PostgreSQL · Docker
+---
 
-### Moodable
+### [Moodable](https://github.com/siddhantgoel7/Moodable)
+Android app connecting friends based on current mood — map-based discovery and real-time push notifications.
 
-Android app to help connect with friends based on your current mood, map-based discovery and real-time notifications
-
-**Tech:** Java & Android SDK · Firebase Firestore · Google Maps SDK · Expresso JUnit 
-
+**Tech:** Java · Android SDK · Firebase Firestore · Google Maps SDK · Espresso JUnit
 
 ---
 
 ## Also Working On
 
-Building educational software at the University of Alberta Faculty of Medicine and Dentistry as a Software Developer Intern.
+Building educational software at the **University of Alberta Faculty of Medicine and Dentistry** as a Software Developer Intern — leading a 6-person Agile team and shipping 150+ features across interactive instructional platforms.
 
 ---
 
 ## Tech Stack
 
-**Languages**  
+**Languages**
 Java · Python · TypeScript · Go · C# · SQL
 
-**Frontend**  
-React · Next.js · React Native
+**Frontend**
+React · Next.js · React Native · Tailwind CSS
 
-**Backend**  
+**Backend**
 Node.js · FastAPI · Django REST · .NET Core
 
-**AI**  
-OpenAI · RAG · LangChain · pgvector
+**AI & Data**
+OpenAI API · RAG · LangChain · pgvector · Whisper STT · Hugging Face · Scikit-learn
 
-**Cloud & Infrastructure**  
-AWS · Docker · Kubernetes · PostgreSQL · Supabase
+**Cloud & DevOps**
+AWS (Lambda, API Gateway, SAM) · Docker · Kubernetes · GitHub Actions · GitLab CI
+
+**Databases**
+PostgreSQL · MySQL · MongoDB · Firebase Firestore · Supabase
 
 ---
 
 ## Contact
 
-* [sgoel3@ualberta.ca](mailto:sgoel3@ualberta.ca)
-* LinkedIn
-* GitHub
+- 📧 [sgoel3@ualberta.ca](mailto:sgoel3@ualberta.ca)
+- 💼 [linkedin.com/in/-siddhantgoel](https://linkedin.com/in/-siddhantgoel)
+- 🐙 [github.com/siddhantgoel7](https://github.com/siddhantgoel7)
