@@ -1,7 +1,7 @@
 # Siddhant Goel
 
 Computer Science Honours student at the University of Alberta building AI-powered applications and scalable full-stack systems.
-Currently seeking **Software Engineering Internships for Summer 2027**.
+Currently seeking **Software Engineering Internships for Summer 2026**.
 
 Edmonton, Alberta · [sgoel3@ualberta.ca](mailto:sgoel3@ualberta.ca)
 
