@@ -35,7 +35,7 @@ Tech: ![Java](https://img.shields.io/badge/Java-ed8b00?style=flat&logo=openjdk&l
 
 ## Also Working On
 
-Contributing to educational software at the **University of Alberta Faculty of Medicine and Dentistry** as a Software Developer Intern
+as AI SWE Intern @Buxton Labs
 ---
 
 ## Tech Stack
